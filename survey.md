@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: RED
+Favorite food:  BURGERS
+Favorite musician/band: LINKIN PARK
+Favorite movie: HARRY POTTER
+Requested grade in the course: 105
